@@ -20,6 +20,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lapphong&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lapphong" /></p>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lapphong)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lapphong" alt="lapphong" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lapphong&show_icons=true&locale=en&theme=tokyonight" alt="lapphong" /></p>
 
