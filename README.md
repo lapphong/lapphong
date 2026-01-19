@@ -29,7 +29,7 @@
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
   </a> 
   <a href="https://www.swift.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="45" height="45"/> 
   </a> 
 </p>
 
