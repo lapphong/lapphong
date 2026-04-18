@@ -9,10 +9,9 @@
 
 - 📫 How to reach me **lapphong012@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/phong.lap.777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phong.lap.777" height="30" width="40" /></a>
-</p>
+### Connect with me:
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lapphong/)
+[![Facebook](https://skills-icons.vercel.app/api/icons?i=fb)](https://www.facebook.com/phong.lap.777)
 
 ### Languages and Tools:
 ![My Skills](https://skillicons.dev/icons?i=androidstudio,dart,flutter,figma,swift,react)
@@ -21,4 +20,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lapphong&show_icons=true&locale=en&theme=tokyonight" alt="lapphong" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lapphong&&theme=tokyonight" alt="lapphong" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lapphong&&theme=tokyonight" alt="lapphong" /></p> 
