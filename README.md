@@ -14,7 +14,7 @@
 [![Facebook](https://skills-icons.vercel.app/api/icons?i=fb)](https://www.facebook.com/phong.lap.777)
 
 ### Languages and Tools:
-![My Skills](https://skillicons.dev/icons?i=androidstudio,dart,flutter,figma,swift,react)
+![My Skills](https://skillicons.dev/icons?i=androidstudio,dart,flutter,swift,figma,ts,react,ruby,python)
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lapphong&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lapphong" /></p>
 
